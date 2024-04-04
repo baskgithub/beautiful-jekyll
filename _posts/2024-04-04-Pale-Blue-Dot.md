@@ -6,7 +6,7 @@ tags: [Earth]
 comments: true
 author: Carl Sagan
 ---
-![PaleBlueDot]({{"img/PaleBlueDot.jpg" | relative_url}})
+![PaleBlueDot]({{"assets/img/PaleBlueDot.jpg" | relative_url}})
 
 Pale Blue Dot is a photo of Earth that was taken by the Voyager 1 space probe in 1990 from a distance of about 6 billion kilometers (3.7 billion miles) as it was leaving our solar system. This is what Carl Sagan said about the photo:
 
