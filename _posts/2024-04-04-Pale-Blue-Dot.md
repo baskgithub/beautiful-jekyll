@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
-subtitle: There's lots to learn!
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
+title: The Pale Blue Dot
+subtitle: Taken by the Voyager 1 space probe in 1990
 tags: [Earth]
 comments: true
 author: Carl Sagan
