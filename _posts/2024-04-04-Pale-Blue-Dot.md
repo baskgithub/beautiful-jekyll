@@ -6,9 +6,11 @@ tags: [Earth]
 comments: true
 author: Carl Sagan
 ---
-Pale Blue Dot is a photo of Earth that was taken by the Voyager 1 space probe in 1990 from a distance of about 6 billion kilometers (3.7 billion miles) as it was leaving our solar system. This is what Carl Sagan said about the photo:
+
 这是1990年2月14日旅行者1号于64亿公里外拍摄的一张著名的地球照片，显示了地球像一粒微尘一样悬浮在太阳系的漆黑背景中。卡尔萨根受这张照片启发，写下了《暗淡蓝点》（Pale Blue Dot）一书。
 ![PaleBlueDot]({{"assets/img/PaleBlueDot.jpg" | relative_url}})
+
+Pale Blue Dot is a photo of Earth that was taken by the Voyager 1 space probe in 1990 from a distance of about 6 billion kilometers (3.7 billion miles) as it was leaving our solar system. This is what Carl Sagan said about the photo:  
 
 Look again at that dot.  
 再看一下这个点吧。
