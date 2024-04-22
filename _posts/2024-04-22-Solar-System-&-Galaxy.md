@@ -1,3 +1,12 @@
+---
+layout: post
+title: Solar System & Galaxy
+subtitle: Orbit of the planets, more accurate
+tags: [Earth]
+comments: true
+author: Ethan Siegel
+---
+
 Moreover, as the planets orbit in the plane of the solar system, they change their direction-of-motion continuously, with Earth returning to its starting point after 365 days.  Well, almost to its same exact starting point.
 
 ![An accurate model of how the planets orbit the Sun, which then moves through the galaxy in a... [+] different direction-of-motion. Note that the planets are all in the same plane, and are not dragging behind the Sun or forming a wake of any type.](https://blogs-images.forbes.com/startswithabang/files/2018/08/not-vortex-small.gif)
