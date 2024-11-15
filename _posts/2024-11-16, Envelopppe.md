@@ -7,5 +7,5 @@ markdown file.
 ## test publish img
 Oxalis, watch the link.
 
-![Oxalis.png](Oxalis.png)
+![[../assets/img/Oxalis.png|Oxalis.png]]
 
