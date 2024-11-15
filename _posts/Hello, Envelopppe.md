@@ -1,8 +1,11 @@
 ---
 share: true
 ---
-Success published!
-Update it...
+## Test publish to GitHub pages.
+markdown file.
 
+## test publish img
+Oxalis-1:
 
-Test publish to GitHub pages.
+![[Oxalis-1.png|Oxalis-1.png]]
+
